@@ -1,4 +1,4 @@
-#Website Comparison Tool
+# Website Comparison Tool
 
 This is a Python script that compares two websites by analyzing their content and performing various checks. It uses libraries such as requests, selenium, BeautifulSoup, and difflib to retrieve web page data, capture screenshots, compare HTML content, and analyze differences.
 
