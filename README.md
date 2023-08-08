@@ -8,7 +8,7 @@ Before running the script, make sure you have the following:
 - Python 3.x installed on your system
 - The required Python libraries installed. You can install them using pip:
 
-`pip install requests selenium webdriver_manager beautifulsoup4 difflib
+`pip install requests bs4 Pillow selenium webdriver_manager
 `
 - Chrome web browser installed (required for Selenium WebDriver)
 
@@ -16,7 +16,7 @@ Before running the script, make sure you have the following:
 - Clone or download the script to your local machine.
 - Open a terminal or command prompt and navigate to the directory where the script is located.
 - Run the script using the following command:
-`python script_name.py
+`python website_comparison.py
 `
 - The script will prompt you to enter the URLs of the two websites you want to compare. Enter the URLs as requested.
 
